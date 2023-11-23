@@ -1,0 +1,9 @@
+{
+    "preco_adulto": 25,
+    "preco_crianca": 15,
+    "dia_folga": "Monday",
+    "abertura": "19:00",
+    "fecho": "22:00",
+    "ocupacao_maxima": 100,
+    "num_mesas_disponiveis": 20
+}

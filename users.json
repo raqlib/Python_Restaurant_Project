@@ -1,0 +1,69 @@
+[
+    {
+        "email": "gervasio@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "anacleto@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "joaquim@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "celeste@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "angelica@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "rosario@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "madalena@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "olinda@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "gertrudes@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "cesaltina@hotmail.com",
+        "password": "123",
+        "permission": "admin"
+    },
+    {
+        "email": "encarnacao@hotmail.com",
+        "password": "321",
+        "permission": "admin"
+    },
+    {
+        "email": "luisa@hotmail.com",
+        "password": "396",
+        "permission": "admin"
+    },
+    {
+        "email": "maria@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "maria2@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "maria3@hotmail.com",
+        "permission": "client"
+    },
+    {
+        "email": "rodolfo@hotmail.com",
+        "permission": "client"
+    }
+]

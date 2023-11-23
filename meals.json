@@ -1,0 +1,72 @@
+[
+    {
+        "email": "maria@hotmail.com",
+        "data": "2023-11-15",
+        "hora": "19:00",
+        "numero_adultos": 1,
+        "numero_criancas": 23,
+        "nome_cliente": "maria",
+        "nif": "123456789",
+        "total_pagar": 370
+    },
+    {
+        "email": "joaquim@hotmail.com",
+        "data": "2023-11-15",
+        "hora": "21:00",
+        "numero_adultos": 2,
+        "numero_criancas": 2,
+        "nome_cliente": "joaquim",
+        "nif": "321654987",
+        "total_pagar": 80
+    },
+    {
+        "email": "josefa@hotmail.com",
+        "data": "2023-12-20",
+        "hora": "21:59",
+        "numero_adultos": 3,
+        "numero_criancas": 2,
+        "nome_cliente": "josefa",
+        "nif": "543219876",
+        "total_pagar": 105
+    },
+    {
+        "email": "maria@hotmail.com",
+        "data": "2023-12-30",
+        "hora": "19:00",
+        "numero_adultos": 2,
+        "numero_criancas": 2,
+        "nome_cliente": "maria",
+        "nif": "432987123",
+        "total_pagar": 80
+    },
+    {
+        "email": "maria@hotmail.com",
+        "data": "2024-10-01",
+        "hora": "19:30",
+        "numero_adultos": 1,
+        "numero_criancas": 1,
+        "nome_cliente": "maria",
+        "nif": "321654890",
+        "total_pagar": 40
+    },
+    {
+        "email": "maria@hotmail.com",
+        "data": "2023-12-21",
+        "hora": "20:00",
+        "numero_adultos": 2,
+        "numero_criancas": 3,
+        "nome_cliente": "maria",
+        "nif": "123654987",
+        "total_pagar": 95
+    },
+    {
+        "email": "maria@hotmail.com",
+        "data": "2023-11-29",
+        "hora": "21:30",
+        "numero_adultos": 10,
+        "numero_criancas": 2,
+        "nome_cliente": "maria",
+        "nif": "123456789",
+        "total_pagar": 280
+    }
+]
